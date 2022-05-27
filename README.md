@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![visitors](https://visitor-badge.deta.dev/badge?page_id=sparkbold.23141325342&left_color=red&right_color=green)
 
 <!--
 **sparkbold/sparkbold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 ![Sparkbold's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkbold&count_private=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sparkbold&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
