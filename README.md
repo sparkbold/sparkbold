@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can hold my breath for 1.5 minutes and make the best springroll!
 
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkbold)](https://github.com/anuraghazra/github-readme-stats)
+![Sparkbold's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkbold&count_private=true)
+
